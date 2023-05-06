@@ -1,12 +1,12 @@
 {
-  "name": "@gristlabs/widget-printlabels",
-  "description": "Printable label generator.",
-  "homePage": "https://github.com/gristlabs/grist-widget",
+  "name": "@pittemmaus/printnametags",
+  "description": "Printable Name Tag generator.",
+  "homePage": "https://github.com/PittEmmaus",
   "version": "0.0.1",
   "grist": {
-    "name": "Print labels",
-    "url": "https://gristlabs.github.io/grist-widget/printlabels/index.html",
-    "widgetId": "@gristlabs/widget-printlabels",
+    "name": "Print Name Tags",
+    "url": "https://github.com/PittEmmaus/emmausnametags",
+    "widgetId": "@pittemmaus/printnametags",
     "published": true,
     "accessLevel": "read table"
   }
