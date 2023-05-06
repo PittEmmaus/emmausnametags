@@ -1,12 +1,16 @@
 {
+  "publishConfig": {
+    "registry": "https://pittemmauspnt.pkg.github.com",
+    "repository":"https://github.com/PittEmmaus/emmausnametags.git"
+  },
   "name": "@pittemmaus/printnametags",
-  "description": "Printable Name Tag generator.",
-  "homePage": "https://github.com/PittEmmaus",
+  "description": "Print Emmaus Name Tags.",
+  "homePage": "https://github.com/pittemmaus",
   "version": "0.0.1",
   "grist": {
     "name": "Print Name Tags",
-    "url": "https://github.com/PittEmmaus/emmausnametags",
-    "widgetId": "@pittemmaus/printnametags",
+    "url": "https://github.com/PittEmmaus/pittemmauspnt",
+    "widgetId": "@pittemmaus/pnt",
     "published": true,
     "accessLevel": "read table"
   }
