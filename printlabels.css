@@ -79,50 +79,6 @@ body {
     width: 3.375in;
   }
   
-  .page-labels10 {
-    --vmargin: 0.5in;
-    --hmargin: 0.156in;
-  }
-  .label-labels10 {
-    height: 2in;
-    width: 4in;
-  }
-  
-  .page-labels20 {
-    --vmargin: 0.5in;
-    --hmargin: 0.167in;
-  }
-  .label-labels20 {
-    height: 1in;
-    width: 4in;
-  }
-  .page-labels30 {
-    --vmargin: 0.5in;
-    --hmargin: 0.1875in;
-  }
-  .label-labels30 {
-    height: 1in;
-    width: 2.625in;
-  }
-  
-  .page-labels60 {
-    --vmargin: 0.875in;
-    --hmargin: 0.5in;
-  }
-  .label-labels60 {
-    height: 0.5in;
-    width: 1.75in;
-  }
-  
-  .page-labels80 {
-    --vmargin: 0.5in;
-    --hmargin: 0.3in;
-  }
-  .label-labels80 {
-    height: 0.5in;
-    width: 1.75in;
-  }
-  
   .header {
     margin: 8px;
     font-size: 11pt;
