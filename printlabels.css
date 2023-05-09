@@ -132,13 +132,13 @@ body {
     align-items: center;
   }
   #labeltype {
-    font-size: 11pt;
+    font-size: 36pt;
     padding: 4px;
     color: #666;
   }
   #options-btn {
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 64px;
+    line-height: 64px;
     cursor: pointer;
     margin: 0 8px;
   }

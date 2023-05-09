@@ -10,11 +10,7 @@ function ready(fn) {
     id: 'labels8',
     name: '8 per sheet (2-1/3" x 3-3/8")',
     perPage: 8,
-  }, {
-    id: 'labels80',
-    name: '80 per sheet (1/2" x 1-3/4")',
-    perPage: 80,
-  }];
+  },];
   
   // For backward compatibility we will read starting template from a URL's hash or store, but
   // this should not be used any more.
