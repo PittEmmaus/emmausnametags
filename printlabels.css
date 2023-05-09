@@ -93,8 +93,8 @@ body {
     color: #666;
   }
   #options-btn {
-    font-size: 64px;
-    line-height: 64px;
+    font-size: 12px;
+    line-height: 12px;
     cursor: pointer;
     margin: 0 8px;
   }
