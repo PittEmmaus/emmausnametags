@@ -11,22 +11,6 @@ function ready(fn) {
     name: '8 per sheet (2-1/3" x 3-3/8")',
     perPage: 8,
   }, {
-    id: 'labels10',
-    name: '10 per sheet (2" x 4")',
-    perPage: 10,
-  }, {
-    id: 'labels20',
-    name: '20 per sheet (1" x 4")',
-    perPage: 20,
-  }, {
-    id: 'labels30',
-    name: '30 per sheet (1" x 2-5/8")',
-    perPage: 30,
-  }, {
-    id: 'labels60',
-    name: '60 per sheet (1/2" x 1-3/4")',
-    perPage: 60,
-  }, {
     id: 'labels80',
     name: '80 per sheet (1/2" x 1-3/4")',
     perPage: 80,
